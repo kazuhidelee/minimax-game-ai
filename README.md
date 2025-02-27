@@ -24,12 +24,12 @@ python -m pip install -r requirements.txt
 To play Tic-Tac-Toe:
 
 ```bash
-python TTT.py  
+python Game.py TTT.py  
 ```
 To play Connect 4:
 
 ```bash
-python Connect4.py  
+python Game.py Connect4.py  
 ```
 
 ## 🔍 Search Algorithms
