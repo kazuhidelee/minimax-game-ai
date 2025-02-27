@@ -24,13 +24,17 @@ python -m pip install -r requirements.txt
 To play Tic-Tac-Toe:
 
 ```bash
-python Game.py TTT.py  
+python Game.py TTT  
 ```
+<img width="645" alt="Screenshot 2025-02-27 at 12 38 50 AM" src="https://github.com/user-attachments/assets/6ffaa79c-5193-4a22-8de6-c4347cda5b59" />
+
 To play Connect 4:
 
 ```bash
-python Game.py Connect4.py  
+python Game.py C4 
 ```
+<img width="680" alt="Screenshot 2025-02-27 at 12 38 24 AM" src="https://github.com/user-attachments/assets/aed5026d-b8e1-42f9-9635-457c74823633" />
+
 
 ## 🔍 Search Algorithms
 The AI evaluates moves using Minimax with Alpha-Beta pruning to optimize performance. Key considerations:
